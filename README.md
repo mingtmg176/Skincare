@@ -1,3 +1,2 @@
 # Skincare
-Hii!!
-This is my first repositories :)
+Hii!! , This is my first repositories :)
